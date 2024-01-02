@@ -1,15 +1,15 @@
 #appBg {
-    height: 520px;
-    width: 400px;
+    height: 800px;
+    width: 1000px;
     border: 4px solid black;
     border-radius: 13px;
 }
 
 #appBg form {
-    height: 100%;
-    width: 100%;
+    height: 90%;
+    width: 90%;
     background-color: black;
-    border-radius: 7px;
+    border-radius: 9px;
 }
 #appBg input[type=text] {
     height: 10%;
@@ -20,22 +20,22 @@
     color: white;
     padding: 12px;
     text-align: right;
-    font-size: 50px;
+    font-size: 34px;
     border: 0;
     outline: none;
 }
 
 #appBg input[ type=button], input[type=reset]{
-    width: 22%;
+    width: 16%;
     cursor: pointer;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-size: 29px;
     color: black;
-    padding: 30px;
+    padding: 3px;
     margin: 3px;
     border: 0;
-    border-radius: 100%;
+    border-radius: 16%;
 }
 
 #appBg .orange {
